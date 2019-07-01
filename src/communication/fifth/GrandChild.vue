@@ -9,9 +9,6 @@
 <script>
     export default {
         props: ['grandChild'],
-        data() {
-            return {};
-        },
         inheritAttrs: false,
         methods: {
             changeMsg: function(){
