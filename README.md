@@ -1,5 +1,7 @@
 # vue-training
 
+## vue生命周期和通信方式分享的代码
+
 ## Project setup
 ```
 npm install
